@@ -1,0 +1,19 @@
+.text-wrapper {
+    display: -webkit-box;
+    max-width: 200px;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.paging {
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body {
+    background-color: #393944;
+}
